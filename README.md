@@ -8,4 +8,4 @@ Welcome to my project! Here's a description of what it does.
 
 Below is an embedded p5.js sketch:
 
-https://byjuliag.github.io/indicator
+<iframe src="https://byjuliag.github.io/indicator/" width="800" height="500"></iframe>
